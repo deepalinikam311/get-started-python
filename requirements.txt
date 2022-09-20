@@ -1,2 +1,6 @@
 Flask>=1.0.0
 cloudant==2.13.0
+scikit-learn==0.24
+numpy==1.22.0
+matplotlib==3.3.1
+sklearn>=0.18
